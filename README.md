@@ -13,8 +13,7 @@ Eg: shiny::runApp("geneidconvert")
 #### [Scatterplots2D](https://ash-apps.shinyapps.io/scatterplots2D/)
 
 
-#### [Heatmaps](https://ash-apps.shinyapps.io/Heatmaps_Shinyapps/
-)
+#### [Heatmaps](https://ash-apps.shinyapps.io/Heatmaps_Shinyapps/)
 For a given tab delimited file, with genenames and scores(Z-scores or vooms), calculates distances (euclidean, pearson, manhattan) and plots dendogram, heatmaps
 
 ### [VennDiagram](http://research.scilifelab.se:3838/venndiagram)
